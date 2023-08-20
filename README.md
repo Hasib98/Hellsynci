@@ -23,11 +23,3 @@ Utilizing read-write functionality, Hellsynci allows you to work with solution f
 ### 5. Python Git Script
 
 Hellsynci incorporates a specialized Python Git script to facilitate the process of committing and pushing solutions to your GitHub repositories. This script provides the necessary automation while ensuring version control is maintained.
-
-## Getting Started
-
-1. Clone this repository to your local machine.
-2. Install the required Python libraries using the following command:
-| [spoj](https://www.spoj.com/problems/LCS/) | LCS - Longest Common Substring | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/LCS%20-%20Longest%20Common%20Substring.cpp) | C++ | 2023-08-18 |
-| [codeforeces](https://codeforces.com/problemset/problem/1860/F) | F. Evaluate RBS | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/F.%20Evaluate%20RBS.cpp) | C++ | 2023-08-18 |
-| [codeforeces](https://codeforces.com/problemset/problem/1860/F) | F. Evaluate RBS | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/F.%20Evaluate%20RBS.cpp) | C++ | 2023-08-18 |
